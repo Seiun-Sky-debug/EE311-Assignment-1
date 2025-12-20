@@ -1,2 +1,2 @@
-# EE311-Assignment-1
-just used for storing code
+# EE311-Assignment
+just used for storing code for all assignments in EE311
